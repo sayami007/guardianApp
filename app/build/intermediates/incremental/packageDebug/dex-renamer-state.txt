@@ -1,0 +1,7 @@
+#Fri Jul 14 12:40:34 NPT 2017
+base.0=/Users/Bibesh/3C_Android/GuardianApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0ccd3af9f379f2671053323a9257e8ab2addc3a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Bibesh/3C_Android/GuardianApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a683869669cdd8f25f6dea7d3d34553468885497/classes.dex
+base.1=/Users/Bibesh/3C_Android/GuardianApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a683869669cdd8f25f6dea7d3d34553468885497
+file.0=/Users/Bibesh/3C_Android/GuardianApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0ccd3af9f379f2671053323a9257e8ab2addc3a/classes.dex

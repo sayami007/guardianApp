@@ -1,0 +1,4 @@
+#Fri Jul 14 12:18:02 NPT 2017
+base.0=/Users/Bibesh/3C_Android/GuardianApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/Bibesh/3C_Android/GuardianApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
